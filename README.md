@@ -3,5 +3,6 @@
 Place this in the `<header></header>`:
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://stefanoturcarelli.github.io/cdn/reset.css">
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/stefanoturcarelli/cdn/favicon.png?=v2" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/stefanoturcarelli/cdn/reset.css">
 ```
